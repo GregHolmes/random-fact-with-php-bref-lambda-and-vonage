@@ -21,7 +21,6 @@ In this tutorial, you'll get to create a PHP application that will be hosted on 
 * [Serverless](https://www.serverless.com/framework/docs/getting-started/) installed locally
 * [PHP](https://www.php.net/docs.php) installed locally
 * [Composer](https://getcomposer.org/) installed locally
-* [Vonage's CLI](https://github.com/Nexmo/nexmo-cli) installed locally
 
 ## Clone the Repository
 
