@@ -53,7 +53,7 @@ To deploy the application, you'll need to run the following command:
 serverless deploy
 ```
 
-### Create a Vonage Application + Purchase a Virtual number
+## Create a Vonage Application + Purchase a Virtual number
 
 First, purchase a number in your [Dashboard](https://dashboard.nexmo/) under "Numbers" and "Buy Numbers". Make sure the number you're purchasing has Voice capabilities.
 
@@ -65,7 +65,7 @@ Now, click the `Link` button next to your recently purchased Vonage virtual numb
 
 You've purchased a Vonage virtual number, created a Vonage Application, and written the code to handle the voice webhook events. It's time to test your project in action!
 
-### Deploy & Test the Application
+## Deploy & Test the Application
 
 The only way to test your project once you've deployed it to AWS Lambda is to call your virtual number and hear the voice reading back your phone number followed by a random fact.
 
