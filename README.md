@@ -53,7 +53,7 @@ To deploy the application, you'll need to run the following command:
 serverless deploy
 ```
 
-## Create a Vonage Application + Purchase a Virtual number
+## Create a Vonage Application & Purchase a Virtual number
 
 First, purchase a number in your [Dashboard](https://dashboard.nexmo/) under "Numbers" and "Buy Numbers". Make sure the number you're purchasing has Voice capabilities.
 
