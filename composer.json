@@ -1,0 +1,19 @@
+{
+    "name": "greg/serverless-calls",
+    "description": "An example of how to run a Text-To-Speech interactive Serverless project using Vonage, Bref, and AWS Lambda.",
+    "authors": [
+        {
+            "name": "Greg Holmes",
+            "email": "iam@gregholmes.co.uk"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.3",
+        "guzzlehttp/guzzle": "^7.0",
+        "vonage/client": "^2.4"
+    },
+    "require-dev": {
+        "bref/bref": "^1.2"
+    }
+}
