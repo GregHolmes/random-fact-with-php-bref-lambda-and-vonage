@@ -14,6 +14,6 @@
         "vonage/client": "^2.4"
     },
     "require-dev": {
-        "bref/bref": "^1.2"
+        "bref/bref": "^2.1.13"
     }
 }
